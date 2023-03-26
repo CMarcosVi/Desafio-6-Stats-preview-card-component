@@ -1,5 +1,5 @@
 $('main').append('<div class="caixa1"></div>');
-$('<img src="/image-header-desktop.jpg"></img>').insertAfter('.caixa1');
+$('<img src="/Desafio-6-Stats-preview-card-component/image-header-desktop.jpg"></img>').insertAfter('.caixa1');
 $('.caixa1').append('<h1 class="titulo"><div class="infotitle">Get <p class="Insights">Insights</p> that help</div> your business grow.</h1>');
 $('.titulo').after('<p class="informacao"> Discover the benefits of data analytics and make <br> better decisions regarding revenue, customer <br> experience,and overall efficiency.</p>');
 $('.informacao').after('<ul class="lista"></ul>');
